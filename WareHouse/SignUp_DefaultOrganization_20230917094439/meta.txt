@@ -1,0 +1,29 @@
+Task:
+give me a simple authentication app, which havein the next.js and tailwindcss frontend and nodejs backend with postgresql database, the app must take input from user and save the first name, last name and user email in the database
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+web application
+
+Ideas:
+
+
+Language:
+ Node.js
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

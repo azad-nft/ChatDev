@@ -1,0 +1,29 @@
+Task:
+develop me a application with User Interface that remap the CAPSLOCK key to A and A key to CAPSLOCK, the program must have two buttons in it, first one MapKeys and second ReverseKeys, when i press the MapKeys, the CAPSLOCK remapped to A and A key remapped to CAPSLOCK,and when i press ReverseKeys, the keys restored to it's original keys, like A must act as A and CAPSLOCK must act as CAPSLOCK
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
